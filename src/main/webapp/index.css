@@ -1,0 +1,74 @@
+.navsearch {
+    font-weight: bold;
+    align-content: right;
+}
+
+.bg-form-container {
+    background-color: red;
+    width: 50%;
+    margin-left: 20%;
+
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+
+.image {
+    width: 90px;
+    height: 60px;
+}
+
+.bgcontainer {
+
+    background-image: url("https://wallpaperaccess.com/full/956711.jpg");
+    height: 100vh;
+}
+
+.middle {
+    margin-top: 25%;
+    margin-left: 22%;
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.heading {
+    margin-left: 5vw;
+    margin-top: 1vw;
+    text-align: center;
+}
+
+.details {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 10vw;
+}
+
+.centered {
+     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+  
+}
+
+.texts {
+    margin: 10px;
+}
+
+.button {
+    text-align: center;
+}
+
+.tst {
+    border-radius: 20px;
+}
+
+.botns {
+    height: 55px;
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
